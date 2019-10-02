@@ -76,7 +76,7 @@ class MainActivity : BaseActivity(), ViewBook {
             rv_book.setLayoutManager(GridLayoutManager(this, 3))
         }
 
-
+/// comment this item for change a something not
 //
 //        rv_book.setupAdapter<ItemsItem>(R.layout.item_book) { adapter, context, list ->
 //            bind { itemView, position, item ->
